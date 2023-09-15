@@ -35,3 +35,22 @@ body{
 .zap{
     color: green;
 }
+
+.btn{
+    font-size: 25px;
+    color: rgb(0, 225, 255);
+    margin-right: 5rem;
+    text-decoration: none;
+    background-color: rgb(86, 86, 86);
+    border-radius: 4.25rem;
+}
+
+.titulo2{
+    font-size: 2rem;
+    color: red;
+}
+
+.sub2{
+    
+}
+
