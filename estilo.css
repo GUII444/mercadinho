@@ -38,7 +38,7 @@ body{
 
 .btn{
     font-size: 25px;
-    color: rgb(0, 225, 255);
+    color: rgb(255, 255, 255);
     margin-right: 5rem;
     text-decoration: none;
     background-color: rgb(86, 86, 86);
@@ -54,3 +54,26 @@ body{
     
 }
 
+.img{
+    font-size: 25px;
+    width: 482px, 520px;
+    
+}
+
+.insta{
+    height: 30px;
+}
+
+.logo{
+margin-left: 20rem;
+}
+
+.insta-2{
+    height: 20px;
+    font-size: 20px;
+    color: purple;
+}
+
+.rodape{
+    color: rgb(255, 255, 255);
+}
